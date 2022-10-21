@@ -20,10 +20,10 @@
 </div>
 <br>
 
-- 🔭 I’m currently working on expanding my knowledge of full-stack web development & web3.
-- 🌱 I’m currently learning advanced Javascript leading into more about Node.js, Next.js, & React.
-- 💬 Ask me about my experience renting apartments in Manhattan and working as a recording engineer in LA!
-- ⚡ Fun fact: I'm also a classically trained trombonist with 10+ years of touring experience.
+- 🇲🇽 I’m currently working on expanding my knowledge of full-stack web development & web3.
+- 💈 I’m currently learning advanced Javascript leading into more work with JS frameworks including: Node.js, Next.js, & React.
+- 🛸 Ask me about my experience renting apartments in Manhattan and working as a recording engineer in LA!
+- 🙏🏽 Fun fact: I'm also a classically trained trombonist with 10+ years of touring experience.
 
 <br>
 <h2 align="center">Frequently Used Technologies</h2>
