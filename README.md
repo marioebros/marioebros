@@ -42,13 +42,12 @@
 <br>
 <h2 align="center">Check out some of my recent projects:</h2>
 
-- An online library system made with HTML, CSS, and JavaScript: [Live](https://pmbechard.github.io/Library/) [Repo](https://github.com/pmbechard/Library)
-- A sample sign up page made with HTML, CSS, and JavaScript: [Live](https://pmbechard.github.io/Sign-Up-Page/) [Repo](https://github.com/pmbechard/Sign-Up-Page)
-- A sample admin dashboard page made with HTML, CSS, and JavaScript: [Live](https://pmbechard.github.io/Admin-Dashboard/) [Repo](https://github.com/pmbechard/Admin-Dashboard)
-- A site for making pixel art made with HTML, CSS, and JavaScript: [Live](https://pmbechard.github.io/Pixton/) [Repo](https://github.com/pmbechard/Pixton)
-- Another hangman game, but made with Python and Tkinter with adjustable difficulty and word lengths: [Repo](https://github.com/pmbechard/Tk-Hangman)
-- An iOS calculator replica made with HTML, CSS, and JavaScript: [Live](https://pmbechard.github.io/iOS-Calculator-Replica/) [Repo](https://github.com/pmbechard/iOS-Calculator-Replica)
-- One of my first big projects; a GUI that streamlines the report card-making process for Rosedale GHS Classroom Teachers. It uses Python with several libraries including Kivy and BeautifulSoup4: [Repo](https://github.com/pmbechard/Rosedale-GHS-Reporting-System)
+1. My largest project to date! An updated personal portfolio website built using: TypeScript, React, Next.js, Tailwind CSS, Sanity.io(CMS), & deployed on Vercel: [Live](https://portfolio-mme.vercel.app/) [Repo](https://github.com/marioebros/portfolio)
+2. Another practical application for JavaScript development in a "To-Do" App built using: JavaScript, CSS, & Webpack: [Live](https://marioebros.github.io/toDo-list/) [Repo](https://github.com/marioebros/toDo-list)
+3. A sample restaurant page for a fictional business "G's" made with JavaScript, CSS, & Webpack: [Live](https://marioebros.github.io/restaurant-page/) [Repo](https://github.com/marioebros/restaurant-page)
+4. An online "pocket" library application made with HTML, CSS, and JavaScript: [Live](https://marioebros.github.io/library-app/) [Repo](https://github.com/marioebros/library-app)
+5. A JavaScript built calculator replica made with HTML, CSS, & of course, JavaScript: [Live](https://marioebros.github.io/project-calculator/) [Repo](https://github.com/marioebros/project-calculator)
+6. A Rock, Paper, Scissors standalone game vs. The Computer, made with case using: JavaScript, CSS, & HTML: [Live](https://marioebros.github.io/project-rock-paper-scissors/) [Repo](https://github.com/marioebros/project-rock-paper-scissors)
 
 <br>
 <h2 align="center">Feel free to hit me up using the links below. Thanks for visiting!</h2>
