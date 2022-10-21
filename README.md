@@ -34,7 +34,7 @@
 
 <br>
 <div align="center">
-  <img src="">
+  <figure><embed src="https://wakatime.com/share/@09ded259-8d57-432d-acbe-fd998a4351d0/7aa585de-a512-4b79-bd0a-6fc7f05f3ece.svg"></embed></figure>
   <!------ https://github-readme-stats.vercel.app/api/top-langs/?username=pmbechard&theme=blue-green ------>
 </div>
 <br>
