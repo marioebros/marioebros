@@ -1,9 +1,9 @@
-### What's up 👋
+### What's up 🙏🏽
 
 <!------
 **marioebros/marioebros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. ------>
 
-<img width="100%" src="https://raw.githubusercontent.com/pmbechard/pmbechard/main/github_banner.png" alt="Peyton Bechard">
+<img width="100%" src="github_banner_mme.svg" alt="Mario M. Elizalde">
 
 <br>
 <h2 align="center">Introduction</h2>
