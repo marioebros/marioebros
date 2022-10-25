@@ -15,7 +15,7 @@
 
 <br>
 <div align="center">
-  <img height="10px" width="10px" src="./assets/logo.png"> <!---- ./assets/github_banner_mme.svg ---->
+  <img height="100px" width="100px" src="./assets/logo.png"> <!---- ./assets/github_banner_mme.svg ---->
 </div>
 <br>
 
