@@ -15,17 +15,17 @@
 
 <br>
 <div align="center">
-  <img src="">
+  <img src="/assets/logo.png">
 </div>
 <br>
 
 - 🇲🇽 I’m currently working on expanding my knowledge of full-stack web development & web3.
 - 💈 I’m currently learning advanced Javascript leading into more work with JS frameworks including: Node.js, Next.js, & React.
 - 🛸 Ask me about my experience renting apartments in Manhattan and working as a recording engineer in LA!
-- 🙏🏽 Fun fact: I'm also a classically trained trombonist with 10+ years of touring experience.
+- 🙏🏽 Fun fact: I'm also a classically trained trombonist with 10+ years of professional touring experience.
 
 <br>
-<h2 align="center">Frequently Used Technologies</h2>
+<h2 align="center">Technologies Worked With</h2>
 
 <div align="center">  
   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">   
