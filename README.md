@@ -3,7 +3,7 @@
 <!------
 **marioebros/marioebros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. ------>
 
-<img height="50%" width="100%" src="./assets/github_banner_mme.svg" alt="Mario M. Elizalde">
+<img align="center" height="275px" width="100%" src="./assets/github_banner_mme.svg" alt="Mario M. Elizalde">
 
 <br>
 <h2 align="center">Introduction</h2>
@@ -19,13 +19,13 @@
 </div>
 <br>
 
-- 🇲🇽 I’m currently working on expanding my knowledge of full-stack web development & web3.
+- 🇲🇽 I’m currently working on expanding my knowledge of full-stack software development & web3!
 - 💈 I’m currently learning advanced Javascript leading into more work with JS frameworks including: Node.js, Next.js, & React.
 - 🛸 Ask me about my experience renting apartments in Manhattan and working as a recording engineer in LA!
 - 🙏🏽 Fun fact: I'm also a classically trained trombonist with 10+ years of professional touring experience.
 
 <br>
-<h2 align="center">Technologies Worked With</h2>
+<h2 align="center">Technologies Used:</h2>
 
 <div align="center">  
   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">   
@@ -82,7 +82,7 @@
 6. A Rock, Paper, Scissors standalone game vs. The Computer, made with case using: JavaScript, CSS, & HTML: [Live](https://marioebros.github.io/project-rock-paper-scissors/) [Repo](https://github.com/marioebros/project-rock-paper-scissors)
 
 <br>
-<h2 align="center">Feel free to hit me up using the links below. Thanks for visiting!</h2>
+<h2 align="center">Feel free to hit me up using the links below. Talk soon!</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/mariomeliz/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.instagram.com/issa_mmeh/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
