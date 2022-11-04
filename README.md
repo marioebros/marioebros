@@ -81,6 +81,8 @@
 5. A JavaScript built calculator replica made with HTML, CSS, & of course, JavaScript: [Live](https://marioebros.github.io/project-calculator/) [Repo](https://github.com/marioebros/project-calculator)
 6. A Rock, Paper, Scissors standalone game vs. The Computer, made with case using: JavaScript, CSS, & HTML: [Live](https://marioebros.github.io/project-rock-paper-scissors/) [Repo](https://github.com/marioebros/project-rock-paper-scissors)
 
+[![@marioebros's Holopin board](https://holopin.me/marioebros)](https://holopin.io/@marioebros)
+
 <br>
 <h2 align="center">Feel free to hit me up using the links below. Talk soon!</h2>
 <p align="center">
