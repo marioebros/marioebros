@@ -1,4 +1,4 @@
-### What's up 🙏🏽
+### What's up? 🙏🏽
 
 <!------
 **marioebros/marioebros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. ------>
@@ -8,7 +8,7 @@
 <br>
 <h2 align="center">Introduction</h2>
 
-    My name is Mario Elizalde and I am a self-taught developer with about 1 year of experience. I'm currently looking to make the transition from an Email Copywriter to a software developer role. Have a look through my repos and feel free to reach out if you want to discuss anything that you see here.
+    I am a self-taught software developer with 1 year of experience. I'm currently looking to make the transition from an Email Copywriter to a software developer role. Have a look through my repos and feel free to reach out if you want to discuss anything that you see here.
 
     Talk soon,
     Mario
@@ -19,7 +19,7 @@
 </div>
 <br>
 
-- 🇲🇽 I’m currently working on expanding my knowledge of full-stack software development & web3!
+- 🇲🇽 I’m currently working on expanding my knowledge of software development & web3!
 - 💈 I’m currently learning advanced Javascript leading into more work with JS frameworks including: Node.js, Next.js, & React.
 - 🛸 Ask me about my experience renting apartments in Manhattan and working as a recording engineer in LA!
 - 🙏🏽 Fun fact: I'm also a classically trained trombonist with 10+ years of professional touring experience.
@@ -42,8 +42,6 @@
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-  <img src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white">
   <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7">
   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white">
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
