@@ -8,7 +8,11 @@
 <br>
 <h2 align="center">Introduction</h2>
 
-    I am a self-taught software developer with 1 year of experience. I'm currently looking to make the transition from an Email Copywriter to a software developer role. Have a look through my repos and feel free to reach out if you want to discuss anything that you see here.
+    I'm Mario! A self-taught software developer with 1 year of experience coding and building applications and around 10 years as a professional        musician.
+    
+    I'm currently looking to make the transition from an Email Copywriter to a software developer role. 
+    
+    Have a look through my repos and feel free to reach out if you want to discuss anything that you see here.
 
     Talk soon,
     Mario
