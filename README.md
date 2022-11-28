@@ -8,7 +8,9 @@
 <br>
 <h2 align="center">Introduction</h2>
 
-    I'm Mario! A self-taught software developer with 1 year of experience coding and building applications and around 10 years as a professional        musician.
+    I'm Mario! A self-taught software developer with 1 year of experience coding and building applications. 
+    
+    - 10 years as a professional trombonist, recording engineer, and private teacher.
     
     I'm currently looking to make the transition from an Email Copywriter to a software developer role. 
     
@@ -60,7 +62,7 @@
 <br>
 
 <br>
-<h2 align="center">Check out some of my recent projects:</h2>
+<h2 align="center">Check out some of my projects:</h2>
 
 1. My largest project to date! An updated personal portfolio website built using: TypeScript, React, Next.js, Tailwind CSS, Sanity.io(CMS), & deployed on Vercel: [Live](https://portfolio-mme.vercel.app/) [Repo](https://github.com/marioebros/portfolio)
 2. Another practical application for JavaScript development in a "To-Do" App built using: JavaScript, CSS, & Webpack: [Live](https://marioebros.github.io/toDo-list/) [Repo](https://github.com/marioebros/toDo-list)
