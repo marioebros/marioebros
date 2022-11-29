@@ -10,9 +10,13 @@
 
     I'm Mario! A self-taught software developer with 1 year of experience coding and building applications. 
     
-    - 10 years as a professional trombonist, recording engineer, and private teacher.
+        - 10 years as a professional trombonist, recording engineer, and private teacher.
     
-    I'm currently looking to make the transition from an Email Copywriter to a software developer role. 
+        - Making the transition from Email Copywriter to Software Developer. 
+        
+        - Advocate for quality education for all!
+        
+        - First Gen. Chicano Artist, Developer, & Lifelong Student.
     
     Have a look through my repos and feel free to reach out if you want to discuss anything that you see here.
 
