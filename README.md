@@ -73,7 +73,7 @@
 3. A sample restaurant page for a fictional business "G's" made with JavaScript, CSS, & Webpack: [Live](https://marioebros.github.io/restaurant-page/) [Repo](https://github.com/marioebros/restaurant-page)
 4. An online "pocket" library application made with HTML, CSS, and JavaScript: [Live](https://marioebros.github.io/library-app/) [Repo](https://github.com/marioebros/library-app)
 5. A JavaScript built calculator replica made with HTML, CSS, & of course, JavaScript: [Live](https://marioebros.github.io/project-calculator/) [Repo](https://github.com/marioebros/project-calculator)
-6. A Rock, Paper, Scissors standalone game vs. The Computer, made with case using: JavaScript, CSS, & HTML: [Live](https://marioebros.github.io/project-rock-paper-scissors/) [Repo](https://github.com/marioebros/project-rock-paper-scissors)
+6. Basic build of a blockchain to demonstrate working knowledge, made with using: JavaScript: [Live]() [Repo](https://github.com/marioebros/blockchain)
 
 [![@marioebros's Holopin board](https://holopin.me/marioebros)](https://holopin.io/@marioebros)
 
