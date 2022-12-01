@@ -69,10 +69,10 @@
 <h2 align="center">Check out some of my projects:</h2>
 
 1. My largest project to date! An updated personal portfolio website built using: TypeScript, React, Next.js, Tailwind CSS, Sanity.io(CMS), & deployed on Vercel: [Live](https://portfolio-mme.vercel.app/) [Repo](https://github.com/marioebros/portfolio)
-2. Another practical application for JavaScript development in a "To-Do" App built using: JavaScript, CSS, & Webpack: [Live](https://marioebros.github.io/toDo-list/) [Repo](https://github.com/marioebros/toDo-list)
-3. A sample restaurant page for a fictional business "G's" made with JavaScript, CSS, & Webpack: [Live](https://marioebros.github.io/restaurant-page/) [Repo](https://github.com/marioebros/restaurant-page)
-4. An online "pocket" library application made with HTML, CSS, and JavaScript: [Live](https://marioebros.github.io/library-app/) [Repo](https://github.com/marioebros/library-app)
-5. A JavaScript built calculator replica made with HTML, CSS, & of course, JavaScript: [Live](https://marioebros.github.io/project-calculator/) [Repo](https://github.com/marioebros/project-calculator)
+2. A JavaScript built Weather app made interacting with API's using functions that process JSON data; built using with JavaScript & CSS: [Live]() [Repo](https://github.com/marioebros/weather-app)
+3. ECDSA-node blockchain development practice for Ethereum Development Bootcamp @ Alchemy: [Live]() [Repo](https://github.com/marioebros/ecdsa-node)
+4. "Pinterest-like" social media application duplicate with Google pass authentication made with JavaScript, HTML, and CSS: [Live]() [Repo](https://github.com/marioebros/issa-mme)
+5. Another practical application for JavaScript development in a "To-Do" App built using: JavaScript, CSS, & Webpack: [Live](https://marioebros.github.io/toDo-list/) [Repo](https://github.com/marioebros/toDo-list)
 6. Basic build of a blockchain to demonstrate working knowledge, made with using: JavaScript: [Live]() [Repo](https://github.com/marioebros/blockchain)
 
 [![@marioebros's Holopin board](https://holopin.me/marioebros)](https://holopin.io/@marioebros)
