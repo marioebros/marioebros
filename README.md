@@ -71,22 +71,27 @@
 1. Portfolio:
 <br>
     a. My largest project to date! An updated personal portfolio website built using: TypeScript, React, Next.js, Tailwind CSS, Sanity.io(CMS), & deployed on Vercel: [Live](https://portfolio-mme.vercel.app/) [Repo](https://github.com/marioebros/portfolio)
+<br>
 
 2. Weather App:
 <br>
     a. A JavaScript built Weather app made interacting with API's using functions that process JSON data; built using with JavaScript & CSS: [Live]() [Repo](https://github.com/marioebros/weather-app)
+<br>
 
 3. ECDSA-Node:
 <br>
     a. ECDSA-node blockchain development practice for Ethereum Development Bootcamp @ Alchemy: [Live]() [Repo](https://github.com/marioebros/ecdsa-node)
+<br>
 
 4. Issa-mme Social Media App:
 <br>
     a. "Pinterest-like" social media application duplicate with Google pass authentication made with JavaScript, HTML, and CSS: [Live]() [Repo](https://github.com/marioebros/issa-mme)
+<br>
 
 5. toDo List:
 <br>
     a. Another practical application for JavaScript development in a "To-Do" App built using: JavaScript, CSS, & Webpack: [Live](https://marioebros.github.io/toDo-list/) [Repo](https://github.com/marioebros/toDo-list)
+<br>
 
 6. BuyMeACoffee DeFi Dapp:
 <br>
