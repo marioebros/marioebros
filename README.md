@@ -18,7 +18,7 @@
         
         - First Gen. Chicano Artist, Developer, & Lifelong Student.
     
-    Have a look through my repos and feel free to reach out if you want to discuss anything that you see here.
+    Have a look through my repos and reach out if you want to discuss anything that you see here.
 
     Talk soon,
     Mario
