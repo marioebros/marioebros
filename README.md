@@ -64,7 +64,7 @@
 
 1. Portfolio:
 <p align="center">
-    a. My largest project to date! An updated personal portfolio website built using: TypeScript, React, Next.js, Tailwind CSS, Sanity.io(CMS), & deployed on Vercel: [Live](https://portfolio-mme.vercel.app/) [Repo](https://github.com/marioebros/portfolio)
+    a. My largest project to date! An updated personal portfolio website built using: TypeScript, React,    Next.js, Tailwind CSS, Sanity.io(CMS), & deployed on Vercel: [Live](https://portfolio-mme.vercel.app/) [Repo](https://github.com/marioebros/portfolio)
 </p>
 
 2. Weather App:
@@ -74,22 +74,22 @@
 
 3. ECDSA-Node:
 <p align="center">
-    a. ECDSA-node blockchain development practice for Ethereum Development Bootcamp @ Alchemy: [Live]() [Repo] (https://github.com/marioebros/ecdsa-node)
+    a. ECDSA-node blockchain development practice for Ethereum Development Bootcamp @ Alchemy: [Live]() [Repo]  (https://github.com/marioebros/ecdsa-node)
 </p>
 
 4. Issa-mme Social Media App:
 <p align="center">
-    a. "Pinterest-like" social media application duplicate with Google pass authentication made with JavaScript, HTML, and CSS: [Live]() [Repo](https://github.com/marioebros/issa-mme)
+    a. "Pinterest-like" social media application duplicate with Google pass authentication made with JavaScript,    HTML, and CSS: [Live]() [Repo](https://github.com/marioebros/issa-mme)
 </p>
 
 5. toDo List:
 <p align="center">
-    a. Another practical application for JavaScript development in a "To-Do" App built using: JavaScript, CSS, & Webpack: [Live](https://marioebros.github.io/toDo-list/) [Repo](https://github.com/marioebros/toDo-list)
+    a. Another practical application for JavaScript development in a "To-Do" App built using: JavaScript, CSS, &    Webpack: [Live](https://marioebros.github.io/toDo-list/) [Repo](https://github.com/marioebros/toDo-list)
 </p>
 
 6. BuyMeACoffee DeFi Dapp:
 <p align="center">
-    a. Buy Me A Coffee Smart Contract that allows visitors to send (fake) ETH as tips - built using Alchemy, Hardhat, Ether.js, & Ethereum Goerli: [Live](https://buymeacoffee-solidity-defi-tipping-app.marioebros.repl.co/) [Repo](https://github.com/marioebros/BuyMeACoffee)
+    a. Buy Me A Coffee Smart Contract that allows visitors to send (fake) ETH as tips - built using Alchemy,    Hardhat, Ether.js, & Ethereum Goerli: [Live](https://buymeacoffee-solidity-defi-tipping-app.marioebros.repl.co/)    [Repo](https://github.com/marioebros/BuyMeACoffee)
 </p>
 
 [![@marioebros's Holopin board](https://holopin.me/marioebros)](https://holopin.io/@marioebros)
