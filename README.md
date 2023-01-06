@@ -1,4 +1,4 @@
-### What's up? 🙏🏽
+### Welcome 🙏🏽
 
 <!------
 **marioebros/marioebros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. ------>
@@ -16,7 +16,7 @@
         
         - Advocate for quality education for all!
         
-        - First Gen. Chicano Artist, Developer, & Lifelong Student.
+        - First Gen. Chicano Developer, Artist, & Lifelong Student.
     
     Have a look through my repos and reach out if you want to discuss anything that you see here.
 
@@ -91,8 +91,6 @@
 <p align="center">
     a. Buy Me A Coffee Smart Contract that allows visitors to send (fake) ETH as tips - built using Alchemy,    Hardhat, Ether.js, & Ethereum Goerli: [Live](https://buymeacoffee-solidity-defi-tipping-app.marioebros.repl.co/)    [Repo](https://github.com/marioebros/BuyMeACoffee)
 </p>
-
-[![@marioebros's Holopin board](https://holopin.me/marioebros)](https://holopin.io/@marioebros)
 
 <br>
 <h2 align="center">Feel free to hit me up using the links below. Talk soon!</h2>
