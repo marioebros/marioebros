@@ -3,7 +3,7 @@
 <!------
 **marioebros/marioebros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. ------>
 
-<img align="center" height="275px" width="100%" src="./assets/github_banner_mme.svg" alt="Mario M. Elizalde">
+<!------ <img align="center" height="275px" width="100%" src="./assets/github_banner_mme.svg" alt="Mario M. Elizalde"> ------>
 
 <br>
 <h2 align="center">Introduction</h2>
